@@ -26,7 +26,7 @@ const LeftBanner = () => {
           />
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wide">
-        "I am a passionate software developer. With a strong foundation in web development and a keen eye for data, I create innovative solutions that bridge technology and user experience."
+        "I am a passionate software developer, with a strong foundation in web development and a keen eye for data, I create innovative solutions that bridge technology and user experience."
         </p>
       </div>
      {/* Media */}
